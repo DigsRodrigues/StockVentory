@@ -112,13 +112,7 @@ Seguem abaixo os testes da API através da plataforma Insomnia.
 
 <br>
 
-## Contact
-E-mail:  
-davi.silva70@fatec.sp.gov.br  
-diego.rodrigues53@fatec.sp.gov.br  
-felipe.paiva@fatec.sp.gov.br  
-filicio.david@fatec.sp.gov.br  
-isabella.ataide@fatec.sp.gov.br  
+## Contact  
 
 ## Contato
 E-mail:  
